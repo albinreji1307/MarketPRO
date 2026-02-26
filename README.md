@@ -18,9 +18,10 @@ Features
 •	dynamic cart count in Navbar 
 •	Auto-changing Daily Best Sells section 
 •	banner image rotation and independent product changing 
-•	Scroll-to-top button with animation 
+•	Scroll-to-top button with animation , custom spinning
 •	Newsletter subscription section 
 •	Responsive design for all screen sizes
+
 
 State Management (Redux)
    Redux Toolkit is used to manage cart state globally. 
