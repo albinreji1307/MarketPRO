@@ -37,4 +37,6 @@ The MarketPRO project is developed using a modular approach by dividing the UI i
 It uses functional components and React Hooks to manage data efficiently.
 The project follows a clean folder structure, ensures responsive design for all devices, a
 nd avoids placing all HTML in a single file to maintain better organization and readability.
-   
+
+
+
