@@ -15,7 +15,7 @@ Features
 •	Product listing with dynamic API data 
 •	Product modal with detailed view 
 •	Add to Cart functionality with Redux 
-•	dynamic cart count in Navbar 
+•	dynamic cart count in Navbarv and use lazy loading
 •	Auto-changing Daily Best Sells section 
 •	banner image rotation and independent product changing 
 •	Scroll-to-top button with animation , custom spinning
