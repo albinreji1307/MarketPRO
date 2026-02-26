@@ -4,12 +4,12 @@ This project is a modern( Grocery )E-Commerce Web Application built using React,
 The application allows users to browse products, add them to cart, view product details, and manage their shopping cart efficiently
 
 Technologies Used 
-•	React JS – Frontend framework 
+•	React JS 
 •	Redux Toolkit – State management 
 •	React Router – Page navigation 
 •	Tailwind CSS – Styling 
-•	Custom Demo API – Product data simulation 
-•	JavaScript (ES6+) – Application logic
+•	Custom Demo API  
+•	JavaScript (ES6+) 
 
 Features 
 •	Product listing with dynamic API data 
